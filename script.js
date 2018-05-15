@@ -1,6 +1,4 @@
 $(function(){
-
-  // SNSボタン
   $('.social-icon').hover(
     function(){
       $(this).children('span').animate({
@@ -13,14 +11,12 @@ $(function(){
       }, 300);
     });
   
-  // トップへ戻るボタン
   $('#top-btn').click(function(){
     $('html,body').animate({ 
       'scrollTop': 0 
     }, 'slow');
   });
   
-  // ヘッダー内の<a>タグをクリックしたときのclickイベントを作成してください。
   $('header a').click(function(){
     var id = $(this).attr('href');
     var position = $(id).offset().top;
