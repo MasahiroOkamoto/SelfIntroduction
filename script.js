@@ -7,7 +7,7 @@ $(function(){
     },
     function(){
       $(this).children('span').animate({
-        'font-size':'24px'
+        'font-size':'30px'
       }, 300);
     });
   
