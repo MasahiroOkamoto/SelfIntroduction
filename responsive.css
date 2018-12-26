@@ -6,4 +6,7 @@
   footer {
     text-align: center;
   }
+  .social-icon {
+    width: 100%;
+  }
 }
