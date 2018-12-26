@@ -8,10 +8,14 @@
   }
   .container {
     width: 100%;
-
+  }
+  .carousel slide {
+    width: 100%;
+    text-align: center;
   }
   .stamps-section {
     text-align: center;
+    width: 100%;
   }
   .social-icon {
     width: 100%;
