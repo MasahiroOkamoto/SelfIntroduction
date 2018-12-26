@@ -319,7 +319,9 @@ footer {
 }
 
 .follow-us {
-  margin: auto;
+  max-width: 50%;
+  margin: 0 auto;
+  text-align: center;
 }
 
 .social-icon {
