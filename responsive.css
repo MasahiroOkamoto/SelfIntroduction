@@ -6,7 +6,11 @@
   footer {
     text-align: center;
   }
+  .stamp-section {
+    text-align: center;
+  }
   .social-icon {
     width: 100%;
+    text-align: center;
   }
 }
