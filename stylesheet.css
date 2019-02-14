@@ -52,6 +52,9 @@ h3:before, h3:after{
   margin: 0 6rem;
   vertical-align: middle;
 }
+img{
+  text-align: center;
+}
 
 .container {
   max-width: 1170px;
