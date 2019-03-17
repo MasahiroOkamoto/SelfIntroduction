@@ -1,5 +1,3 @@
 # SelfIntroduction
 
-This is Okamotchan LP
-
-レスポンシブ対応が苦手です。。
+This is okamotchan portfolio site
