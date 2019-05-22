@@ -1,0 +1,23 @@
+@media (max-width:1000px) {
+  .stamps-section {
+    width: 50%; 
+    margin-bottom: 50px;
+  }
+}
+
+@media (max-width:670px) {
+  footer {
+    text-align: center;
+  }
+  .container {
+    width: 100%;
+    text-align: center;
+  }
+  .stamps-section {
+    width: 100%;
+  }
+  .social-icon {
+    width: 100%;
+    text-align: center;
+  }
+}

@@ -1,5 +1,8 @@
 @media (max-width:1000px) {
-  .stamp-box {width: 50%; margin-bottom: 50px;}
+  .stamps-section {
+    width: 50%; 
+    margin-bottom: 50px;
+  }
 }
 
 @media (max-width:670px) {
@@ -11,7 +14,6 @@
     text-align: center;
   }
   .stamps-section {
-    text-align: center;
     width: 100%;
   }
   .social-icon {

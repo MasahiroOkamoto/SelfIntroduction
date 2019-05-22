@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   margin: 0;
   font-weight: 400;
@@ -48,13 +52,14 @@ h3:before, h3:after{
   margin: 0 6rem;
   vertical-align: middle;
 }
+img{
+  text-align: center;
+}
 
 .container {
-  width: 1170px;
-  padding-right: 15px;
-  padding-left: 15px;
-  margin-right: auto;
-  margin-left: auto;
+  width: 100%;
+  padding:0 15px;
+  margin: 0 auto;
 }
 
 .section-title {
@@ -313,6 +318,12 @@ footer {
   padding: 40px 0;
   color: #999;
   background-color: #222;
+}
+
+.follow-us {
+  max-width: 50%;
+  margin: 0 auto;
+  text-align: center;
 }
 
 .social-icon {
