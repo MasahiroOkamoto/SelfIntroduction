@@ -15,9 +15,16 @@
   }
   .stamps-section {
     width: 100%;
+    text-align: center;
   }
   .social-icon {
     width: 100%;
     text-align: center;
+  }
+  .header-menu-right {
+    display: none;
+  }
+  .menu-icon{
+    display: block;
   }
 }
